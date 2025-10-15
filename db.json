@@ -1,0 +1,713 @@
+{
+  "all-resumes": [
+    {
+      "id": "ab47",
+      "profesionalData": {
+        "name": "Graceson J",
+        "jobTitle": "Web Developer",
+        "location": "Kakkanad",
+        "email": "gracesonjjohnson@gmail.com",
+        "phone": "7894561230",
+        "github": "gracesonjjohnson@gmail.com",
+        "linkedin": "gracesonjjohnson@gmail.com",
+        "portfolio": "gracesonjjohnson@gmail.com"
+      },
+      "educationData": {
+        "course": "B.Tech",
+        "college": "SRM",
+        "university": "SRM",
+        "year": "2025"
+      },
+      "experience": {
+        "jobRole": "Web Developer",
+        "company": "Luminar",
+        "jobLocation": "Kakkanad",
+        "duration": "6Months"
+      },
+      "skill": [
+        "HTML",
+        "CSS",
+        "JAVASCRIPT",
+        "REACT"
+      ],
+      "summary": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book."
+    },
+    {
+      "id": "d008",
+      "profesionalData": {
+        "name": "fbvdfsb",
+        "jobTitle": "sfbfs",
+        "location": "bsfbf",
+        "email": "sfbfs",
+        "phone": "bsfbs",
+        "github": "bsf",
+        "linkedin": "sfbsf",
+        "portfolio": "sfbfsb"
+      },
+      "educationData": {
+        "course": "sfbf",
+        "college": "bfsbsfb",
+        "university": "sbs",
+        "year": "bsfbsf"
+      },
+      "experience": {
+        "jobRole": "sfbsf",
+        "company": "sfb",
+        "jobLocation": "sf",
+        "duration": "sfbfs"
+      },
+      "skill": [
+        "CSS",
+        "JAVASCRIPT",
+        "REACT"
+      ],
+      "summary": "fbsfbsfbfsb"
+    },
+    {
+      "id": "83b3",
+      "profesionalData": {
+        "name": "fbvdfsb",
+        "jobTitle": "sfbfs",
+        "location": "bsfbf",
+        "email": "sfbfs",
+        "phone": "bsfbs",
+        "github": "bsf",
+        "linkedin": "sfbsf",
+        "portfolio": "sfbfsb"
+      },
+      "educationData": {
+        "course": "sfbf",
+        "college": "bfsbsfb",
+        "university": "sbs",
+        "year": "bsfbsf"
+      },
+      "experience": {
+        "jobRole": "sfbsf",
+        "company": "sfb",
+        "jobLocation": "sf",
+        "duration": "sfbfs"
+      },
+      "skill": [
+        "CSS",
+        "JAVASCRIPT",
+        "REACT"
+      ],
+      "summary": "fbsfbsfbfsb"
+    },
+    {
+      "id": "b78e",
+      "profesionalData": {
+        "name": "dsvss",
+        "jobTitle": "sdvs",
+        "location": "sdvsv",
+        "email": "sdvds",
+        "phone": "dsv",
+        "github": "sdv",
+        "linkedin": "vsd",
+        "portfolio": "dsv"
+      },
+      "educationData": {
+        "course": "sdvsd",
+        "college": "vdsv",
+        "university": "sdv",
+        "year": "dsvsd"
+      },
+      "experience": {
+        "jobRole": "dsvs",
+        "company": "vsd",
+        "jobLocation": "dsv",
+        "duration": "dsv"
+      },
+      "skill": [
+        "CSS",
+        "JAVASCRIPT"
+      ],
+      "summary": "sdvdsvdsvdsv"
+    },
+    {
+      "id": "5cac",
+      "profesionalData": {
+        "name": "sdvs",
+        "jobTitle": "v",
+        "location": "svdsv",
+        "email": "sdvsd",
+        "phone": "sdvds",
+        "github": "dsvsdv",
+        "linkedin": "",
+        "portfolio": ""
+      },
+      "educationData": {
+        "course": "",
+        "college": "",
+        "university": "",
+        "year": ""
+      },
+      "experience": {
+        "jobRole": "",
+        "company": "",
+        "jobLocation": "",
+        "duration": ""
+      },
+      "skill": [],
+      "summary": ""
+    },
+    {
+      "id": "bad6",
+      "profesionalData": {
+        "name": "dsvs",
+        "jobTitle": "sdvds",
+        "location": "dsvs",
+        "email": "sdvs",
+        "phone": "sdv",
+        "github": "",
+        "linkedin": "",
+        "portfolio": ""
+      },
+      "educationData": {
+        "course": "",
+        "college": "",
+        "university": "",
+        "year": ""
+      },
+      "experience": {
+        "jobRole": "",
+        "company": "",
+        "jobLocation": "",
+        "duration": ""
+      },
+      "skill": [],
+      "summary": ""
+    },
+    {
+      "id": "0bb1",
+      "profesionalData": {
+        "name": "sv",
+        "jobTitle": "sdv",
+        "location": "vds",
+        "email": "dsvsv",
+        "phone": "",
+        "github": "",
+        "linkedin": "",
+        "portfolio": ""
+      },
+      "educationData": {
+        "course": "",
+        "college": "",
+        "university": "",
+        "year": ""
+      },
+      "experience": {
+        "jobRole": "",
+        "company": "",
+        "jobLocation": "",
+        "duration": ""
+      },
+      "skill": [],
+      "summary": ""
+    },
+    {
+      "id": "49ab",
+      "profesionalData": {
+        "name": "gfbd",
+        "jobTitle": "bdg",
+        "location": "bdbd",
+        "email": "bdb",
+        "phone": "",
+        "github": "",
+        "linkedin": "",
+        "portfolio": ""
+      },
+      "educationData": {
+        "course": "",
+        "college": "",
+        "university": "",
+        "year": ""
+      },
+      "experience": {
+        "jobRole": "",
+        "company": "",
+        "jobLocation": "",
+        "duration": ""
+      },
+      "skill": [],
+      "summary": ""
+    },
+    {
+      "id": "6ae5",
+      "profesionalData": {
+        "name": "sdvds",
+        "jobTitle": "sdv",
+        "location": "dsvs",
+        "email": "",
+        "phone": "",
+        "github": "",
+        "linkedin": "",
+        "portfolio": "sdv"
+      },
+      "educationData": {
+        "course": "",
+        "college": "",
+        "university": "",
+        "year": ""
+      },
+      "experience": {
+        "jobRole": "",
+        "company": "",
+        "jobLocation": "",
+        "duration": ""
+      },
+      "skill": [],
+      "summary": ""
+    },
+    {
+      "id": "3fff",
+      "profesionalData": {
+        "name": "svsv",
+        "jobTitle": "dsv",
+        "location": "dsvsd",
+        "email": "",
+        "phone": "sdvdsv",
+        "github": "",
+        "linkedin": "",
+        "portfolio": ""
+      },
+      "educationData": {
+        "course": "",
+        "college": "",
+        "university": "",
+        "year": ""
+      },
+      "experience": {
+        "jobRole": "",
+        "company": "",
+        "jobLocation": "",
+        "duration": ""
+      },
+      "skill": [],
+      "summary": ""
+    },
+    {
+      "id": "a76e",
+      "profesionalData": {
+        "name": "sdvsd",
+        "jobTitle": "vsdv",
+        "location": "sdvds",
+        "email": "sdvds",
+        "phone": "vds",
+        "github": "",
+        "linkedin": "",
+        "portfolio": ""
+      },
+      "educationData": {
+        "course": "",
+        "college": "",
+        "university": "",
+        "year": ""
+      },
+      "experience": {
+        "jobRole": "",
+        "company": "",
+        "jobLocation": "",
+        "duration": ""
+      },
+      "skill": [],
+      "summary": ""
+    },
+    {
+      "id": "5daa",
+      "profesionalData": {
+        "name": "wewgw",
+        "jobTitle": "rwg",
+        "location": "wrgwrwr",
+        "email": "",
+        "phone": "",
+        "github": "",
+        "linkedin": "",
+        "portfolio": ""
+      },
+      "educationData": {
+        "course": "",
+        "college": "",
+        "university": "",
+        "year": ""
+      },
+      "experience": {
+        "jobRole": "",
+        "company": "",
+        "jobLocation": "",
+        "duration": ""
+      },
+      "skill": [],
+      "summary": ""
+    },
+    {
+      "id": "ffd9",
+      "profesionalData": {
+        "name": "sdfsd",
+        "jobTitle": "fdsv",
+        "location": "sddsds",
+        "email": "",
+        "phone": "",
+        "github": "",
+        "linkedin": "",
+        "portfolio": ""
+      },
+      "educationData": {
+        "course": "",
+        "college": "",
+        "university": "",
+        "year": ""
+      },
+      "experience": {
+        "jobRole": "",
+        "company": "",
+        "jobLocation": "",
+        "duration": ""
+      },
+      "skill": [],
+      "summary": ""
+    },
+    {
+      "id": "567c",
+      "profesionalData": {
+        "name": "dsvdfbd",
+        "jobTitle": "dbd",
+        "location": "bdbdb",
+        "email": "",
+        "phone": "",
+        "github": "",
+        "linkedin": "",
+        "portfolio": ""
+      },
+      "educationData": {
+        "course": "",
+        "college": "",
+        "university": "",
+        "year": ""
+      },
+      "experience": {
+        "jobRole": "",
+        "company": "",
+        "jobLocation": "",
+        "duration": ""
+      },
+      "skill": [],
+      "summary": ""
+    },
+    {
+      "id": "42f1",
+      "profesionalData": {
+        "name": "thdd",
+        "jobTitle": "gbgdb",
+        "location": "dgbdggd",
+        "email": "",
+        "phone": "",
+        "github": "",
+        "linkedin": "",
+        "portfolio": ""
+      },
+      "educationData": {
+        "course": "",
+        "college": "",
+        "university": "",
+        "year": ""
+      },
+      "experience": {
+        "jobRole": "",
+        "company": "",
+        "jobLocation": "",
+        "duration": ""
+      },
+      "skill": [],
+      "summary": ""
+    },
+    {
+      "id": "1e0c",
+      "profesionalData": {
+        "name": "gfbdgb",
+        "jobTitle": "gdb",
+        "location": "dgbdgb",
+        "email": "",
+        "phone": "",
+        "github": "",
+        "linkedin": "",
+        "portfolio": ""
+      },
+      "educationData": {
+        "course": "",
+        "college": "",
+        "university": "",
+        "year": ""
+      },
+      "experience": {
+        "jobRole": "",
+        "company": "",
+        "jobLocation": "",
+        "duration": ""
+      },
+      "skill": [],
+      "summary": ""
+    },
+    {
+      "id": "d410",
+      "profesionalData": {
+        "name": "vs",
+        "jobTitle": "dsv",
+        "location": "dsv",
+        "email": "",
+        "phone": "",
+        "github": "",
+        "linkedin": "",
+        "portfolio": ""
+      },
+      "educationData": {
+        "course": "",
+        "college": "",
+        "university": "",
+        "year": ""
+      },
+      "experience": {
+        "jobRole": "",
+        "company": "",
+        "jobLocation": "",
+        "duration": ""
+      },
+      "skill": [],
+      "summary": ""
+    },
+    {
+      "id": "205d",
+      "profesionalData": {
+        "name": "svds",
+        "jobTitle": "dsv",
+        "location": "vsvsvs",
+        "email": "",
+        "phone": "",
+        "github": "",
+        "linkedin": "",
+        "portfolio": ""
+      },
+      "educationData": {
+        "course": "",
+        "college": "",
+        "university": "",
+        "year": ""
+      },
+      "experience": {
+        "jobRole": "",
+        "company": "",
+        "jobLocation": "",
+        "duration": ""
+      },
+      "skill": [],
+      "summary": ""
+    },
+    {
+      "id": "0add",
+      "profesionalData": {
+        "name": "fsvfs",
+        "jobTitle": "fsv",
+        "location": "svsv",
+        "email": "",
+        "phone": "",
+        "github": "",
+        "linkedin": "",
+        "portfolio": ""
+      },
+      "educationData": {
+        "course": "",
+        "college": "",
+        "university": "",
+        "year": ""
+      },
+      "experience": {
+        "jobRole": "",
+        "company": "",
+        "jobLocation": "",
+        "duration": ""
+      },
+      "skill": [],
+      "summary": ""
+    },
+    {
+      "id": "4d70",
+      "profesionalData": {
+        "name": "Selgin V Joseph",
+        "jobTitle": "Sales",
+        "location": "Ernakulam",
+        "email": "selgin@gmail.com",
+        "phone": "4561230789",
+        "github": "selgin@github.com",
+        "linkedin": "selgin@linkedin.com",
+        "portfolio": "selgin@profile.com"
+      },
+      "educationData": {
+        "course": "sales",
+        "college": "sales college",
+        "university": "sales university",
+        "year": "2022"
+      },
+      "experience": {
+        "jobRole": "salessss",
+        "company": "luminar",
+        "jobLocation": "ernakulam",
+        "duration": "2months"
+      },
+      "skill": [
+        "CSS",
+        "JAVASCRIPT",
+        "MONGODB",
+        "NODEJS"
+      ],
+      "summary": "dvdsvdsvdsvsdvsdvsvdsv"
+    },
+    {
+      "id": "0f74",
+      "profesionalData": {
+        "name": "demooooo",
+        "jobTitle": "svsds",
+        "location": "sdvdsv",
+        "email": "",
+        "phone": "",
+        "github": "",
+        "linkedin": "",
+        "portfolio": ""
+      },
+      "educationData": {
+        "course": "",
+        "college": "",
+        "university": "",
+        "year": ""
+      },
+      "experience": {
+        "jobRole": "",
+        "company": "",
+        "jobLocation": "",
+        "duration": ""
+      },
+      "skill": [],
+      "summary": ""
+    },
+    {
+      "id": "a73f",
+      "profesionalData": {
+        "name": "Graceson J",
+        "jobTitle": "Graceson J",
+        "location": "Graceson J",
+        "email": "Graceson J",
+        "phone": "Graceson J",
+        "github": "Graceson J",
+        "linkedin": "Graceson J",
+        "portfolio": "Graceson J"
+      },
+      "educationData": {
+        "course": "Graceson J",
+        "college": "Graceson J",
+        "university": "Graceson J",
+        "year": "Graceson J"
+      },
+      "experience": {
+        "jobRole": "Graceson J",
+        "company": "Graceson J",
+        "jobLocation": "Graceson J",
+        "duration": "Graceson J"
+      },
+      "skill": [
+        "CSS",
+        "JAVASCRIPT",
+        "MONGODB",
+        "NODEJS"
+      ],
+      "summary": "Graceson JGraceson JGraceson JGraceson JGraceson JGraceson JGraceson JGraceson JGraceson JGraceson JGraceson JGraceson JGraceson JGraceson JGraceson JGraceson JGraceson JGraceson J"
+    },
+    {
+      "id": "8e18",
+      "profesionalData": {
+        "name": "Graceson J",
+        "jobTitle": "web developer",
+        "location": "Kakkanad",
+        "email": "",
+        "phone": "",
+        "github": "",
+        "linkedin": "",
+        "portfolio": ""
+      },
+      "educationData": {
+        "course": "",
+        "college": "",
+        "university": "",
+        "year": ""
+      },
+      "experience": {
+        "jobRole": "",
+        "company": "",
+        "jobLocation": "",
+        "duration": ""
+      },
+      "skill": [],
+      "summary": ""
+    },
+    {
+      "id": "68ff",
+      "profesionalData": {
+        "name": "Graceson J",
+        "jobTitle": "WEB DEVELOPER",
+        "location": "KAKKANAD",
+        "email": "Graceson J",
+        "phone": "Graceson J",
+        "github": "Graceson J",
+        "linkedin": "Graceson J",
+        "portfolio": "Graceson J"
+      },
+      "educationData": {
+        "course": "Graceson J",
+        "college": "Graceson J",
+        "university": "Graceson J",
+        "year": "Graceson J"
+      },
+      "experience": {
+        "jobRole": "Graceson J",
+        "company": "Graceson J",
+        "jobLocation": "Graceson J",
+        "duration": "Graceson J"
+      },
+      "skill": [
+        "HTML",
+        "CSS",
+        "JAVASCRIPT"
+      ],
+      "summary": "Graceson JGraceson JGraceson JGraceson JGraceson JGraceson JGraceson JGraceson JGraceson J"
+    },
+    {
+      "id": "85c7",
+      "profesionalData": {
+        "name": "svsdv",
+        "jobTitle": "sv",
+        "location": "sdvsd",
+        "email": "sdvs",
+        "phone": "vsd",
+        "github": "sdv",
+        "linkedin": "sdv",
+        "portfolio": "sdv"
+      },
+      "educationData": {
+        "course": "svsd",
+        "college": "sdv",
+        "university": "sdv",
+        "year": "sdv"
+      },
+      "experience": {
+        "jobRole": "sdvs",
+        "company": "sdv",
+        "jobLocation": "sdv",
+        "duration": "sv"
+      },
+      "skill": [
+        "HTML",
+        "CSS",
+        "JAVASCRIPT"
+      ],
+      "summary": "sdvdsvsd"
+    }
+  ]
+}
